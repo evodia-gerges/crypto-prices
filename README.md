@@ -103,10 +103,10 @@ The app formats **USD** and **SEK** prices according to the active **locale**, w
 Clone the repo:
 
 bash
-Copy
-Edit
 git clone https://github.com/evodia-gerges/crypto-prices.git
+
 cd crypto-prices
+
 Open in Android Studio (Meerkat+ recommended).
 
 Hit Run ▶️
