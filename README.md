@@ -91,15 +91,15 @@ The app formats **USD** and **SEK** prices according to the active **locale**, w
 
 📦 app/
 
-├── data/         # API, repository, model classes
+├── data/          # API, repository, model classes
 
-├── domain/       # Use cases and business logic
+├── domain/        # Use cases and business logic
 
-├── ui/           # Compose UI and screens
+├── ui/            # Compose UI and screens
 
-├── di/           # Koin DI modules
+├── di/            # Koin DI modules
 
-├── utils/        # Shared utilities
+├── utils/         # Shared utilities
 
 └── MainActivity.kt
 
