@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Crypto Prices</string>
+    <string name="loading">Loading…</string>
+    <string name="no_results">There\'re no results yet</string>
+    <string name="crypto_prices">Crypto Prices</string>
+    <string name="usd">USD</string>
+    <string name="sek">SEK</string>
+    <string name="show_sek">Show in SEK</string>
+    <string name="show_usd">Show in USD</string>
+    <string name="search">Search…</string>
+    <string name="settings">Settings</string>
+    <string name="default_currency">Default currency</string>
+    <string name="details">Details</string>
+    <string name="currency">Currency</string>
+    <string name="price">Price</string>
+    <string name="open_price">Open price</string>
+    <string name="last_price">Last price</string>
+    <string name="high_price">High price</string>
+    <string name="low_price">Low price</string>
+    <string name="list_sorting">List sorting</string>
+    <string name="sorted_list">Sorted list</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+
+</resources>
