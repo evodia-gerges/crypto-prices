@@ -90,11 +90,17 @@ The app formats **USD** and **SEK** prices according to the active **locale**, w
 ## 📁 Project Structure
 
 📦 app/
+
 ├── data/         # API, repository, model classes
+
 ├── domain/       # Use cases and business logic
+
 ├── ui/           # Compose UI and screens
+
 ├── di/           # Koin DI modules
+
 ├── utils/        # Shared utilities
+
 └── MainActivity.kt
 
 ---
